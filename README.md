@@ -44,7 +44,14 @@ The project explores and compares several classification models:
 5.  **Evaluation**: Comparing accuracy scores and confusion matrices.
 6.  **Prediction System**: A built-in system to predict heart disease for new patient data inputs.
 
-## How to used
-1. Ensure you have the required libraries installed: `pip install pandas numpy seaborn matplotlib scikit-learn`
-2. Run the `Heart_Disease_Prediction.ipynb` notebook.
-3. Use the **Predictive Model** section at the bottom of the notebook to input new patient data and get instant results.
+## How to use
+1. **Prerequisites**: Ensure you have the required libraries installed:
+   ```bash
+   pip install pandas numpy seaborn matplotlib scikit-learn
+   ```
+2. **Jupyter Notebook**: Run the `Heart_Disease_Prediction.ipynb` notebook to see the full data analysis and model training steps.
+3. **Command Line (Fast Run)**: To quickly run the model and see predictions for sample patients, use the provided script:
+   ```bash
+   .\.venv\Scripts\python.exe run_prediction.py
+   ```
+   The results will be displayed in the terminal and saved to `results.txt`.

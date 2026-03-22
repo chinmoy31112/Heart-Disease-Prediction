@@ -1,5 +1,5 @@
-Heart Disease Prediction Model Results
-========================================
+Heart Disease Prediction Model Results (with Scaling)
+==================================================
 Model Training Accuracy: 0.8539
 Model Testing Accuracy: 0.8000
 ------------------------------
