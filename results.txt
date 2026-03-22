@@ -1,0 +1,12 @@
+Heart Disease Prediction Model Results
+========================================
+Model Training Accuracy: 0.8539
+Model Testing Accuracy: 0.8000
+------------------------------
+Sample Patient Predictions:
+
+Patient 1 Data: (62, 0, 0, 140, 268, 0, 0, 160, 0, 3.6, 0, 2, 2)
+Prediction: Heart Disease Detected
+
+Patient 2 Data: (69, 1, 0, 160, 234, 1, 2, 131, 0, 0.1, 1, 1, 0)
+Prediction: No Heart Disease
